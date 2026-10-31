@@ -1,0 +1,6 @@
+{
+  "name": "DataGenius Apply - AI & Data Job Autopilot",
+  "description": "Customizes your resume with GenAI, autofills job applications with a single click, and provides live insights and walk-in drive alerts for remote & hybrid Data Analytics and GenAI opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
